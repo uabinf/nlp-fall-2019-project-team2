@@ -54,9 +54,7 @@ The attributes of the datasets are -
 
 * Download the pre-trained word vector from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit and put inside the data folder
 
-* Download train.csv from *** and put the file inside the data folder
-
-* Download test.csv from *** and put the file inside the data folder
+* Download train.csv and test.csv from https://l.facebook.com/l.php?u=https%3A%2F%2Fuab365-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fmahoque_uab_edu%2FEnn7NCg-eoZIl5y5oC4lR8kB5-tk9_pUiXULt-PV8ivKfQ%3Fe%3DjVcKYB%26fbclid%3DIwAR3We1Dd__4X9XAPo78GiAbWq8g6Au-ewAAN4iXrW67kNbh5xdli5qJSHdA&h=AT19KIqXOrBD56HvsOLfyiynNM2IJtwDlmRM8ffNImY7wSWot6MtzPbedeE0n-D9Zo7hJQDpVabvyhE9TDmvws3vlKFKRt9CIZUJdODOEfMq5T0Y6lozINknCErxI5drvigAGFJ4jXA and put the file inside the data folder
 
 * Open Question-Similarity-Checker.ipynb in Jupyter notbook and run
 
