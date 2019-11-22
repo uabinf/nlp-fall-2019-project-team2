@@ -3,6 +3,7 @@ By Raiful Hasan and Mohammad Aminul Hoque
 
 * [Overview](#overview)
 * [Dataset](#dataset)
+* [How to run](#how-to-run)
 
 ### Overview
 Identifying the duplicate questions is challenging, the sentence composition and word selection vary among persons. 
@@ -44,5 +45,20 @@ The attributes of the datasets are -
 | Training set | 3,04,290 |
 | development set | 50,000 |
 | Testing set | 50,000 |
+
+
+### How to run
+
+Download the pre-trained word vector from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit and put inside the model directory
+
+Open Question-Similarity-Checker.ipynb in Jupyter notbook and run
+
+
+### Results
+
+Accuracy – 82.65% 
+
+
+
 
 
