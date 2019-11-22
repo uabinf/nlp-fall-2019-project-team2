@@ -4,6 +4,7 @@ By Raiful Hasan and Mohammad Aminul Hoque
 * [Overview](#overview)
 * [Dataset](#dataset)
 * [How to run](#how-to-run)
+* [Results](#results)
 
 ### Overview
 Identifying the duplicate questions is challenging, the sentence composition and word selection vary among persons. 
