@@ -50,16 +50,22 @@ The attributes of the datasets are -
 
 ### How to run
 
-Download the pre-trained word vector from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit and put inside the model directory
+* Create a folder named "data" inside the current directory
 
-Open Question-Similarity-Checker.ipynb in Jupyter notbook and run
+* Download the pre-trained word vector from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit and put inside the data folder
+
+* Download train.csv from *** and put the file inside the data folder
+
+* Download test.csv from *** and put the file inside the data folder
+
+* Open Question-Similarity-Checker.ipynb in Jupyter notbook and run
 
 
 ### Results
 
 Accuracy – 82.65% 
 
-![conf_matrix](confusion_matrix.png)
+<img src="./confusion_matrix.png" width="600" height="300">
 
 
 
