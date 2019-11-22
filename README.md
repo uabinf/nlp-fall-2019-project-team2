@@ -1,8 +1,8 @@
 ## Duplicate Question Pair Detection in Natural Language Processing
 By Raiful Hasan and Mohammad Aminul Hoque 
 
-[Overview](#overview)
-[Dataset](#dataset)
+* [Overview](#overview)
+* [Dataset](#dataset)
 
 ### Overview
 Identifying the duplicate questions is challenging, the sentence composition and word selection vary among persons. 
@@ -26,7 +26,7 @@ Table 1: Sample data in Quora dataset
 
 Here is the description of the field of the dataset - 
 
-| id | qid1 |
+| Field | Description |
 | --- | --- |
 | id | unique id for each question pair |
 | qid1 | the id for question 1 in the pair |
