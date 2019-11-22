@@ -58,7 +58,7 @@ Open Question-Similarity-Checker.ipynb in Jupyter notbook and run
 
 Accuracy – 82.65% 
 
-
+![conf_matrix](confusion_matrix.png)
 
 
 
